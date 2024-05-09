@@ -10,6 +10,6 @@ resource "aws-instance " "my-instance" {
         env = "dev"
         name = "instance-1"
     }
-    vpc_security_group_ids = ["sg-05ae5ce65f18d0610", "sg-023e1d359bd5464cd"]
+    vpc_security_group_ids = ["sg-05ae5ce65f18d0610", ""]
   
 }
