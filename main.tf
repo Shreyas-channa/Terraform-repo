@@ -4,6 +4,6 @@ provider "aws" {
 }
 resource "aws_instance" "sample" {
     ami = var.ami_value
-    instance_type = var.in
+    instance_type = var.instance_
   
 }
