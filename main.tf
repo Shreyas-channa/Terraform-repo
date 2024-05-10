@@ -2,7 +2,9 @@ variable "ami_value" {
   description = "value for the ami"
 }
 
-
+variable "" {
+  
+}
 provider "aws" {
     region = "us-east-1" 
 }
