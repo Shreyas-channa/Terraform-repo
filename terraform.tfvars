@@ -1,3 +1,3 @@
 ami_value = ""
-instance_type = ""
+instance_type_value = ""
 subnet_id = ""
