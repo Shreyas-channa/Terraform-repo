@@ -3,7 +3,7 @@ variable "ami_value" {
 }
 
 variable "instance_type" {
-  description = "value"
+  description = "value "
 }
 provider "aws" {
     region = "us-east-1" 
