@@ -3,6 +3,7 @@ provider "aws" {
   
 }
 resource "aws_instance" "sample" {
-    ami = var.
+    ami = var.ami_value
+    
   
 }
