@@ -9,6 +9,7 @@ variable "instance_type" {
 variable "subnet_id" {
   description = "value for the subnet id"
 }
+
 provider "aws" {
     region = "us-east-1" 
 }
