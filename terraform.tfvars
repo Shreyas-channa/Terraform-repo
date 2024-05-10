@@ -1,1 +1,1 @@
-ami_value = 
+ami_value = ""
