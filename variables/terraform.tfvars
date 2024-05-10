@@ -1,1 +1,1 @@
-a
+ami_value = 
