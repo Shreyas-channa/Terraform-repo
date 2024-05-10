@@ -6,7 +6,7 @@ variable "instance_type" {
   description = "value for instance type"
 }
 
-variable "" {
+variable "subnet_id" {
   
 }
 provider "aws" {
