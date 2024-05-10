@@ -1,4 +1,4 @@
-variable "" {
+variable "ami_value" {
   
 }
 provider "aws" {
