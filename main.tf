@@ -2,6 +2,6 @@ provider "aws" {
     region = "us-east-1"
   
 }
-resource "i" "name" {
+resource "aws_i" "name" {
   
 }
