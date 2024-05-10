@@ -5,6 +5,10 @@ variable "ami_value" {
 variable "instance_type" {
   description = "value for instance type"
 }
+
+variable "" {
+  
+}
 provider "aws" {
     region = "us-east-1" 
 }
